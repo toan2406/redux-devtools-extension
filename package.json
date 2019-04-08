@@ -82,7 +82,7 @@
     "redux": "^3.5.2",
     "redux-devtools": "^3.4.1",
     "redux-devtools-instrument": "^1.9.6",
-    "remotedev-app": "^0.10.13-beta",
+    "remotedev-app": "git+ssh://git@github.com:toan2406/remotedev-app.git#v0.13.2",
     "remotedev-monitor-components": "^0.0.5",
     "remotedev-serialize": "^0.1.8",
     "remotedev-slider": "^1.1.1",
